@@ -1,4 +1,4 @@
-# Hi there, I'm M. Wisnu (@nirvanaguys) 👋
+# Hi there, vana (@nirvanaguys) 👋
 
 > **Machine Learning & Web Developer**  
 > *Turning data into actionable dashboards and clean web experiences.*
