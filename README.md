@@ -1,4 +1,4 @@
-# Hi there, i am vana (@nirvanaguys) 👋
+# Hi there, i am vana 👋
 
 ---
 
@@ -21,10 +21,8 @@ I'm a third-year student in computer science in Institute Technology of Kalimant
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirvanaguys&show_icons=true&theme=neutral" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvanaguys&layout=compact&theme=neutral" alt="Top Languages" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirvanaguys&show_icons=true&theme=neutral)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvanaguys&layout=compact&theme=neutral)
 
 ---
 
