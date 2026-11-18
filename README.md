@@ -1,10 +1,10 @@
-# Hi there, i am vana 👋
+# Hi there, i am vana
 
 ---
 
 ## 👨‍💻 About Me
-I'm a third-year student in computer science in Institute Technology of Kalimantan
-- 🌐 **GitHub:** [github.com/nirvanaguys](https://github.com/nirvanaguys)
+Hi i'am a student in computer science in Institute Technology of Kalimantan
+
 
 ---
 
