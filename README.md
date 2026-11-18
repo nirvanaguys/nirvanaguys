@@ -19,13 +19,6 @@ Hi i'am a student in computer science in Institute Technology of Kalimantan
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirvanaguys&show_icons=true&theme=neutral)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvanaguys&layout=compact&theme=neutral)
-
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-wisnu-36aa9223b)
